@@ -1,0 +1,5 @@
+This code has been made in 2004-2007 in the frame of my PhD research on gaussian beams diffraction. 
+The code here can evaluate the diffraction of an incident gaussian beam on a rectangular PEC plate.
+It is given "as it was', just in case it could serve someone one day...
+
+In order to run the example codes, add the 'lib' directory and its subdirectories to the matlab path before.
